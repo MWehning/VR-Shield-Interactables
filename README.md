@@ -4,7 +4,10 @@ https://www.openhardware.io/view/33050
 
 
 ## Kicad files required to replicate the VR-Dapter for attaching sensors to the VR-Shield system. 
-
+Tested with:
+* MPU6050
+* QMC5883L
+* BH1750
 
 
 # Required components:
